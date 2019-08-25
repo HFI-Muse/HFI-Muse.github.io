@@ -440,6 +440,23 @@ height:50vh;
 <!-- City版安装代码已完成 -->
     
     
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+    var gitment = new Gitment({
+        // id: "这个夏天，我们期待着你的加入", // 可选。默认为 location.href
+        owner: 'museband',
+        repo: 'museband.github.io',
+        oauth: {
+            client_id: 'd9f66e741c027cc2c37e',
+            client_secret: '050e0740d0176434be487fe30de91cd91a169c7b',
+        },
+    })
+    gitment.render('container')
+
+</script>
+
     <!-- partial('_partial/comment/changyan') -->
     <!--PC版-->
 
@@ -565,8 +582,6 @@ top:50vh;
     <div class="sidebar-content sidebar-content-show-archive">
           <div class="sidebar-panel-archives">
     <!-- 在ejs中将archive按照时间排序 -->
-    
-    
     
     
     
