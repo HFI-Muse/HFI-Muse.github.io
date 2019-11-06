@@ -26,13 +26,13 @@ var precacheUrls = [];
 
   precacheUrls.push('/2017/11/12/2017万圣节快闪回顾/');
 
-  precacheUrls.push('/2019/08/18/Resonance-音乐节/');
-
   precacheUrls.push('/2017/09/05/2017届-第一次全员大会/');
 
   precacheUrls.push('/2018/01/16/Christmas-Party-x-乐队回顾/');
 
-  precacheUrls.push('/2019/10/10/「10-10-2019-yi-st」十月十三号华师附中国际部MUSE社慈善音乐PA！/');
+  precacheUrls.push('/2017/08/15/Muse-HFI-你的模样/');
+
+  precacheUrls.push('/2019/08/18/Resonance-音乐节/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
