@@ -24,13 +24,13 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
+  precacheUrls.push('/1000/01/01/readme-md/');
+
+  precacheUrls.push('/2017/12/31/Voice-of-HFI-x-我与Muse的故事/');
+
+  precacheUrls.push('/2018/01/16/Christmas-Party-x-乐队回顾/');
+
   precacheUrls.push('/2019/11/08/万圣节演出回顾/');
-
-  precacheUrls.push('/2019/10/10/「10-10-2019-yi-st」十月十三号华师附中国际部MUSE社慈善音乐PA！/');
-
-  precacheUrls.push('/2019/11/06/万圣节演出预告/');
-
-  precacheUrls.push('/2019/08/22/这个夏天，我们期待着你的加入/');
 
   precacheUrls.push('/2019/08/18/Resonance-音乐节/');
 
