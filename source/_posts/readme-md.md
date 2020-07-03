@@ -1,9 +1,9 @@
 ---
-title: readme.md
+title: README
 date: 1000-01-01 18:03:39
 tags: 
 ---
-# museband.github.io
+# hfi-muse.github.io
 this is a website developed for the propaganda of HFI Muse
 
 <!-- more -->
@@ -12,7 +12,7 @@ this is a website developed for the propaganda of HFI Muse
 
 该网站由HFI MUSE成员创建和维护。
 
-~~This website is created and maintained by HFI student Jason Liu.~~
+This website was created and once maintained by Jason.
  
  ## Contribution
  
